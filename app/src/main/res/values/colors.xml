@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_300">#64b5f6</color> <!-- Blue 300 -->
+    <color name="primary_500">#2196f3</color> <!-- Blue 500 -->
+    <color name="primary_700">#1976d2</color> <!-- Blue 700 -->
+
+    <color name="light_200">#bbdefb</color> <!-- Light Blue 200 -->
+    <color name="light_300">#90caf9</color> <!-- Light Blue 300 -->
+    <color name="light_400">#64b5f6</color> <!-- Light Blue 400 -->
+
+    <color name="neutral_200">#90a4ae</color> <!-- Grey Blue 200 -->
+    <color name="neutral_500">#607d8b</color> <!-- Grey Blue 500 -->
+    <color name="neutral_700">#455a64</color> <!-- Grey Blue 700 -->
+
+    <color name="dark_200">#1a237e</color> <!-- Dark Blue 200 -->
+    <color name="dark_300">#0d47a1</color> <!-- Dark Blue 300 -->
+    <color name="dark_500">#0b3d91</color> <!-- Dark Blue 500 -->
+    <color name="dark_700">#0b3a80</color> <!-- Dark Blue 700 -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F44336</color> <!-- Merah tetap sama -->
+    <color name="light_blue_50">#e3f2fd</color> <!-- Light Blue 50 -->
+    <color name="light_blue_200">#90caf9</color> <!-- Light Blue 200 -->
+    <color name="light_blue_600">#1e88e5</color> <!-- Light Blue 600 -->
+    <color name="light_blue_900">#0d47a1</color> <!-- Light Blue 900 -->
+</resources>

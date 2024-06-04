@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StoryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/primary_300</item>
+        <item name="colorPrimaryVariant">@color/primary_500</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >?attr/backgroundColor</item>
+
+        <!-- Customize your theme here. -->
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:windowBackground">@color/dark_500</item>
+        <item name="background">@color/dark_300</item>
+        <item name="backgroundColor">@color/dark_700</item>
+
+        <item name="android:textColor">@color/light_200</item>
+    </style>
+
+    <style name="Theme.StoryApp.Button" parent="Widget.Material3.Button.ElevatedButton">
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="cornerRadius">16dp</item>
+        <item name="android:fontFamily">@font/poppins_bold</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape
+            android:shape="rectangle">
+            <solid
+                android:color="@color/neutral_500"/>
+        </shape>
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_time_past"
+        android:right="600dp"
+        android:left="600dp"
+        android:top="200dp"
+        android:bottom="200dp">
+    </item>
+</layer-list>

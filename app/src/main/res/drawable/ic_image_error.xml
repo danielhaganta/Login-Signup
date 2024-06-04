@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/neutral_500" />
+        </shape>
+
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_broken_image"
+        android:bottom="10dp"
+        android:left="200dp"
+        android:right="200dp"
+        android:top="10dp">
+
+    </item>
+</layer-list>
